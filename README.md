@@ -1,4 +1,5 @@
 
+[![Build Status](https://titopinto.visualstudio.com/DevOps%20Tito%20Challenge%202/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://titopinto.visualstudio.com/DevOps%20Tito%20Challenge%202/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
